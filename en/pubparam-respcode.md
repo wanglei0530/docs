@@ -12,7 +12,7 @@
 | version|M|S|API version | 
 |sign|M|S|Signature  | 
 
-## Request Response Code:
+## Request Response Code 
 
 ```text
 0: success
