@@ -7,7 +7,7 @@
 * Request method: POST BODY JSON FORMAT
 * Signature: MD5
 
-## Steps for signature:
+## Steps for signature 
 </br>
 
 1. Set all request or response data as set M.
