@@ -16,7 +16,7 @@
 1. Append the key(application key) at the end of stringA to get the stringSignTemp.
 1. Perform MD5 operation on stringSignTemp, then convert all the characters of the obtained string to stringSignTemp to get the signValue.
 
-## Note:
+## Note 
 </br>
 
 * If the value of the parameter is empty, do not participate in the signature.
