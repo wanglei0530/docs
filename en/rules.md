@@ -23,7 +23,7 @@
 * Parameter names are case sensitive (Uppercase lowercase).
 * The sign parameter does not participate in the signature, and the generated signature is checked against the sign value.
 
-## Signature Example:
+## Signature Example
 </br>
 Suppose the transmitted parameters are as follows:
 
