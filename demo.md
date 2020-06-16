@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 	<a href="https://hutool.cn/"><img src="https://cdn.jsdelivr.net/gh/looly/hutool-site/images/logo.jpg" width="400"></a>
 </p>
 <p align="center">
@@ -193,4 +193,4 @@ Hutool欢迎任何人为Hutool添砖加瓦，贡献代码，不过作者是一�
 
 点击以下链接，将页面拉到最下方点击“捐赠”即可。
 
-[前往捐赠](https://gitee.com/loolly/hutool)
+[前往捐赠](https://gitee.com/loolly/hutool) -->

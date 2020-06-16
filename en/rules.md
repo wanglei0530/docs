@@ -4,8 +4,8 @@
 
 * Request head parameter: Content-Type=application/json
 * Code: UTF-8
-* Request method: post body json format
-* Signature:
+* Request method: POST BODY JSON FORMAT
+* Signature: MD5
 
 ## Steps for signature:
 </br>
@@ -49,7 +49,7 @@ stringSignTemp=stringA+"&key=1";
 signValue=MD5(stringSignTemp).toUpperCase()="0DCE5A089389111C30A2C105A9183543";
 ```
 
-## Abbreviations: 
+## Abbreviations 
 
 |  Abbreviation    |  Description    |
 | ---- | ---- |
