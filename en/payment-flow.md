@@ -12,6 +12,7 @@
 
 * Customer choose NanoPay to pay. Merchant create order first and then call NanoPay **[Pre-order API](en/api-list/pre-order)** to create order. NanoPay return **transSerial** and **tmpCode** real time.
 </br>
+
 **Note:** The validity period of tmpCode is the same as the order validity period.
 
 * Open (or redirect to) **NanoPay payment page** with **transSerial** and **tmpCode.**
